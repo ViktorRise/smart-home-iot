@@ -1,0 +1,9 @@
+{
+  "temperatureFile": "gpio/temperature.txt",
+  "illuminationFile": "gpio/illumination.txt",
+  "lightFile": "gpio/light.txt",
+  "illuminationThreshold": 50,
+
+  "motionFile": "gpio/motion.txt",
+  "securityLogFile": "logs/security.log"
+}
