@@ -8,8 +8,11 @@
 ## 👤 Автор
 
 **Останькович Виктор Денисович**
+
 **Дерябин Владислав Алексеевич**
+
 📧 Email: ostankovich91@mail.ru
+
 📧 Email: vladislavderiabin@gmail.com
 ---
 
